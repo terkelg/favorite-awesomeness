@@ -18,6 +18,7 @@
 - [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) - All the things you didn't know you wanted to know about data structures.
 - [Learn Regex The Easy Way](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way.
 - [Bash Handbook](https://github.com/denysdovhan/bash-handbook) - For those who wanna learn Bash.
+- [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know.
 
 
 ## Related
